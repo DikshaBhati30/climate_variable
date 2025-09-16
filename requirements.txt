@@ -16,3 +16,5 @@ eofs
 pysal
 geopandas
 cartopy
+netcdf4
+h5netcdf
